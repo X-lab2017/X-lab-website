@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'My Site',
   tagline: 'Dinosaurs are cool',
-  url: 'https://github.com/zhicheng-ning/',
+  url: 'https://github.com/X-lab2017/',
   baseUrl: '/X-lab-website/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -16,7 +16,7 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'zhicheng-ning', // Usually your GitHub org/user name.
+  organizationName: 'X-lab2017', // Usually your GitHub org/user name.
   projectName: 'X-lab-website', // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful
