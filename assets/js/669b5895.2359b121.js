@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkx_lab_website=self.webpackChunkx_lab_website||[]).push([[7477],{1328:function(e){e.exports=JSON.parse('{"permalink":"/X-lab-website/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":5,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

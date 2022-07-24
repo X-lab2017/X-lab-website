@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkx_lab_website=self.webpackChunkx_lab_website||[]).push([[8132],{4840:function(s){s.exports=JSON.parse('{"label":"docusaurus","permalink":"/X-lab-website/blog/tags/docusaurus","allTagsPath":"/X-lab-website/blog/tags","count":4}')}}]);

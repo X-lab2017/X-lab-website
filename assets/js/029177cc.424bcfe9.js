@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkx_lab_website=self.webpackChunkx_lab_website||[]).push([[270],{4116:function(e){e.exports=JSON.parse('{"label":"hola","permalink":"/X-lab-website/blog/tags/hola","allTagsPath":"/X-lab-website/blog/tags","count":1}')}}]);
