@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/X-lab2017/X-lab-website/blog</id>
-    <title>My Site Blog</title>
+    <title>X-lab Site Blog</title>
     <updated>2022-06-05T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/X-lab2017/X-lab-website/blog"/>
-    <subtitle>My Site Blog</subtitle>
+    <subtitle>X-lab Site Blog</subtitle>
     <icon>https://github.com/X-lab2017/X-lab-website/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Greetings!]]></title>
